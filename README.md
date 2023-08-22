@@ -11,10 +11,11 @@
 <li>All clear</li>
 </ol>
 <h3>Installations:</h3>
-'''Android Studio Giraffee'''
+'Android Studio Giraffee'
 '''Flutter'''
 '''Dart'''
 <h2>Prototype:</h2>
- ![1](https://github.com/tasnia-tabassum18/Calculator/assets/104383410/99b61baa-1d29-4177-ba05-53ca71c727fa)
+
+![1](https://github.com/tasnia-tabassum18/Calculator/assets/104383410/99b61baa-1d29-4177-ba05-53ca71c727fa)
 
 ![4](https://github.com/tasnia-tabassum18/Calculator/assets/104383410/9f0688b6-069e-4bf5-a37b-b65ac0089df6)
