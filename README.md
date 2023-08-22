@@ -11,9 +11,9 @@
 <li>All clear</li>
 </ol>
 <h3>Installations:</h3>
-'Android Studio Giraffee'
-'''Flutter'''
-'''Dart'''
+1. Andoroid Studio Giraffe
+2. Flutter
+3. Dart
 <h2>Prototype:</h2>
 
 ![1](https://github.com/tasnia-tabassum18/Calculator/assets/104383410/99b61baa-1d29-4177-ba05-53ca71c727fa)
